@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman-pawar27
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning tools like MySQL, Python, Data Visulization
+- 🌱 I’m currently learning tools like MySQL, Python, Data Visualization
 - 📫 How to reach me amanpawar027@gmail.com
 
 <!---
